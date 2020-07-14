@@ -22,3 +22,4 @@ The system will have the following functionalities:
 
 **Task execution**: A task starts immediately if there is a server available. If the server is not available, the task gets added to the task queue. A task that has not started yet can be removed by pressing a delete button. A task in the progress can't be removed or stopped. 
 
+**Demo available at**: https://santosh1997.github.io/TaskManager/
