@@ -60,6 +60,7 @@ const taskScheduler = (() => {
     if (serversToBeRemoved > 0) {
       server.remove();
       serversToBeRemoved--;
+      updateServersToRemove();
     }
   };
 
